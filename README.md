@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 
 
 <a href="https://puddle-walkover-436.notion.site/javascript-ad5246c131fe41d1bb73a213498ad14f"><img src="https://img.shields.io/badge/Vlog-white?style=flat-square&logo=Notion&logoColor=black&link=https://puddle-walkover-436.notion.site/javascript-ad5246c131fe41d1bb73a213498ad14f"/></a>
+<a href="mailto:seilylook@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=seilylook@naver.com"/></a>
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seilylook&show_icons=true&theme=dark)
