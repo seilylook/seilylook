@@ -32,6 +32,8 @@ https://simpleicons.org/?q=gitio
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/></a>
 
+<!--
 <a href="https://puddle-walkover-436.notion.site/javascript-ad5246c131fe41d1bb73a213498ad14f"><img src="https://img.shields.io/badge/Vlog-white?style=flat-square&logo=Notion&logoColor=black&link=https://puddle-walkover-436.notion.site/javascript-ad5246c131fe41d1bb73a213498ad14f"/></a>
+-->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seilylook&show_icons=true&theme=dark)
