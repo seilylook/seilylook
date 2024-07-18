@@ -33,4 +33,4 @@ https://simpleicons.org/?q=gitio
 <a href="https://puddle-walkover-436.notion.site/javascript-ad5246c131fe41d1bb73a213498ad14f"><img src="https://img.shields.io/badge/Vlog-white?style=flat-square&logo=Notion&logoColor=black&link=https://puddle-walkover-436.notion.site/javascript-ad5246c131fe41d1bb73a213498ad14f"/></a>
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seilylook&show_icons=true&theme=dark)
+
