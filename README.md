@@ -31,4 +31,6 @@ https://simpleicons.org/?q=gitio
 <a href="https://puddle-walkover-436.notion.site/javascript-ad5246c131fe41d1bb73a213498ad14f"><img src="https://img.shields.io/badge/Vlog-white?style=flat-square&logo=Notion&logoColor=black&link=https://puddle-walkover-436.notion.site/javascript-ad5246c131fe41d1bb73a213498ad14f"/></a>
 -->
 
-
+[![Se Hyeon Kim's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=seilylook&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/seilylook/github-readme-stats#gh-dark-mode-only)
+[![Se Hyeon Kim's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=seilylook&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/seilylook/github-readme-stats#gh-light-mode-only)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seilylook&hide_progress=true)
